@@ -4,8 +4,8 @@ React Native Expo app for Android and Apple
 implement google ads and customized styled 
 
 ## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+it
+Use [Git](github.com/linyoujie/TvOS4public.git) to get repository.
 
 ```bash
 yarn install
