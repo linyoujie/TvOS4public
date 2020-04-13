@@ -7,7 +7,7 @@ implement google ads and customized styled
 Use [Git](https://github.com/linyoujie/TvOS4public.git) to get repository.
 
 ```bash
-git https://github.com/linyoujie/TvOS4public.git
+git clone https://github.com/linyoujie/TvOS4public.git
 yarn install
 expo start
 ```
