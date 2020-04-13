@@ -4,9 +4,10 @@ React Native Expo app for Android and Apple
 implement google ads and customized styled 
 
 ## Installation
-Use [Git](github.com/linyoujie/TvOS4public.git) to get repository.
+Use [Git](https://github.com/linyoujie/TvOS4public.git) to get repository.
 
 ```bash
+git https://github.com/linyoujie/TvOS4public.git
 yarn install
 expo start
 ```
