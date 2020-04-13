@@ -8,6 +8,7 @@ Use [Git](https://github.com/linyoujie/TvOS4public.git) to get repository.
 
 ```bash
 git clone https://github.com/linyoujie/TvOS4public.git
+cd TvOS4public
 yarn install
 expo start
 ```
